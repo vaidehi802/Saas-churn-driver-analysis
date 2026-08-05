@@ -1,0 +1,63 @@
+{
+  "name": "RavenStack Dark",
+  "dataColors": [
+    "#C084FC",
+    "#38BDF8",
+    "#EC4899",
+    "#22D3EE",
+    "#F5D06F",
+    "#818CF8",
+    "#34D399",
+    "#FB7185"
+  ],
+  "background": "#0D0D12",
+  "foreground": "#F2F2F2",
+  "tableAccent": "#C084FC",
+  "good": "#34D399",
+  "bad": "#FB7185",
+  "neutral": "#F5D06F",
+  "maximum": "#C084FC",
+  "center": "#818CF8",
+  "minimum": "#0D0D12",
+  "null": "#3F3F46",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#18181B" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "radius": 16
+          }
+        ],
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#0D0D12" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#F2F2F2" } },
+            "fontSize": 40,
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#A1A1AA" } },
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
