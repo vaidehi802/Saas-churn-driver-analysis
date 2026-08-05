@@ -78,11 +78,11 @@ line endings, you may need to adjust this.
 **Page 1 — Overview:** 5 KPI cards (MRR, ARR, active subscriptions, churn
 rate, refunds given), churn-rate-by-cohort line chart, churn-precursors donut,
 churn-reasons table, referral-performance bar chart.
-![Overview](docs/ravenstack1.png)
+![Overview](ravenstack1.png)
 
 **Page 2 — Deep Dive:** 4 revenue cards, plan-change-impact bar chart,
 support-vs-churn table, usage-vs-churn table, reactivations donut.
-![Deep Dive](docs/ravenstack2.png)
+![Deep Dive](ravenstack2.png)
 ## Key findings
 
 - **Churn reasons are evenly split** — Features (19%), Support (17.3%),
